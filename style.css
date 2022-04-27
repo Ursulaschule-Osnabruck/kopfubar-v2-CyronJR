@@ -1,3 +1,35 @@
-body { 
-    background-color: lightblue;
+h2{color:#007e7e;}
+h3{color:#007e7e;}
+h4{color: gray;font-size: 15px;text-align: center;}
+#garantie{
+    background-color: #a7cece ;
+    font-style: oblique;
+    margin: 30px;
+    margin-right: 300px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-image: url("bilder/hintergrund.gif");
+    background-repeat: no-repeat;
+}
+#Gelb{font-weight: bolder;}
+#Cool{font-weight: bolder;}
+#Schwarz{font-weight: bolder;}
+#Ja{background-image: url("bilder/cocktail.gif");
+padding:35px 0px 0px 10px ; font-size: 30px;
+
+
+}
+body{
+    width: 1000px;
+margin: auto;
+
+
+}
+#elixiere{
+    float: right;
+    width: 280px;
+    padding: 0px 0px 0px 20px ;
+
+    
 }
